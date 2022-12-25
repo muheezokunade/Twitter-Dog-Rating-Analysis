@@ -21,7 +21,7 @@ Run python analyze_data.py to perform analysis and create visualizations.
 
 ## Results
 
-The results of the analysis, including any visualizations, will be stored in the results directory.
+The results of this analysis will be presented in a report, which will be included in this repository.
 
 ## Contributing
 
